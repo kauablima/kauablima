@@ -1,5 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauablima&layout=compact)
-##
+
 <div style="display: inline_block">
  <h3>Sobre mim</h3>
   <p>
